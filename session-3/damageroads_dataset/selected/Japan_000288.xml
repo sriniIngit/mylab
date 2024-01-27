@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Japan_000288.jpg</filename>
+	<path>D:\NYP-Course-2023\mygitRepo\mylab\session-3\damageroads_project\roads_dataset\Japan\Japan\test\images\Japan_000288.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DamagedRoad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>126</ymin>
+			<xmax>531</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

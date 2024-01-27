@@ -1,0 +1,50 @@
+<annotation>
+	<folder>selected</folder>
+	<filename>India_000113.jpg</filename>
+	<path>D:\NYP-Course-2023\mygitRepo\mylab\session-3\damageroads_project\roads_dataset\selected\India_000113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DamagedRoad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>625</ymin>
+			<xmax>530</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Street Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>234</ymin>
+			<xmax>465</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Street Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>356</ymin>
+			<xmax>409</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>
